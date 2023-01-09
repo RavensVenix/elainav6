@@ -19,8 +19,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/RavensVenix/"><img title="Open Source" src="https://img.shields.io/badge/Author-RavensVenix-red"></a>
-<a href="https://github.com/RavensVenix/elainav6/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Idk%3F-yellow"></a>&nbsp;&nbsp;
+<a href="https://github.com/RavensVenix/zxorkta"><img title="DISCONTINUED, PLEASE USE NEW VERSION !!"</a>
 </p>
 <p align='center'>
 <img src="https://telegra.ph/file/715259342d27cc48c11e1.jpg?size=1000" height="428" width="428" />

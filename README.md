@@ -19,7 +19,7 @@ Free Rest APIs <a href="https://elaina-rest-api.herokuapp.com" target="_blank">E
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/RavensVenix/zxorkta"><img title="DISCONTINUED, PLEASE USE NEW VERSION !!"</a>
+<a href="https://github.com/RavensVenix/zxorkta"><title="DISCONTINUED, PLEASE USE NEW VERSION !!"</a>
 </p>
 <p align='center'>
 <img src="https://telegra.ph/file/715259342d27cc48c11e1.jpg?size=1000" height="428" width="428" />
